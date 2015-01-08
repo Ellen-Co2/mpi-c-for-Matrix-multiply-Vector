@@ -1,1 +1,2 @@
-# mpi-c-for-Matrix-multiply-Vector
+
+* Computing the matrix A[M]*[N] * V[N][1]
