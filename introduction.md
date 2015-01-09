@@ -5,4 +5,8 @@
 4. Calculate A[my_row_size][N]* V[N][1]= C[my_row_size] in every process
 5. Send the C[my_row_size] to node0 then broad cast to other process
 6. print the time costed by the step 2-5
- *** to change the repeat times modify the rep
+
+---------------
+### Tips
+* To change the repeat times modify the <b>rep</b>
+* To change the dimension of matrix change the <b>m or n</b> 
